@@ -1,4 +1,3 @@
-Descripción del Proyecto
 Esta aplicación Java realiza un proceso de ETL (Extracción, Transformación y Carga) diseñado para migrar una estructura de datos compleja desde un entorno relacional (MySQL) a una base de datos orientada a objetos (Neodatis). El sistema gestiona la lógica de negocio de una red de gimnasios, incluyendo la administración de monitores, clases y responsabilidades jerárquicas.
 
 Características Principales
